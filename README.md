@@ -106,7 +106,7 @@ docker restart student-apis-container
 
 ## Authors
 
-* **Riddhi Mhatre** - *Initial work* - 
+* **Nishith Desai** - *Initial work* - 
 
 
 
